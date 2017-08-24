@@ -1,7 +1,5 @@
 package msg;
 
-import view.ClientDemoFrame;
-
 /**
  * 页面与控制器内部通讯的消息格式
  * USER：tangly
